@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gethere-alexus
 - 👀 I’m interested in python web development 
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning C# , Unity Source.
 - 📫 How to reach me : telegram  - @Unknowneers (avaible 24/7)
 - Good luck !
 
