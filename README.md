@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gethere-alexus
 - 👀 I’m interested in game development
 - 🌱 I’m currently learning C# , Unity Source.
-- 📫 How to reach me : telegram  - @Unknowneers (avaible 24/7)
+- 📫 How to reach me : telegram  - @Unknowneers 
 - Good luck !
 
 <!---
