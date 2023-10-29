@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @gethere-alexus
-- 👀 I’m interested in game development
-- 🌱 I’m currently learning C# , Unity Source.
-- 📫 How to reach me : telegram  - @Unknowneers 
-- Good luck !
+- 👋 Hi, I’m Oleksii
+- 👀 I’m interested in GameDev
+
 
 <!---
 gethere-alexus/gethere-alexus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
