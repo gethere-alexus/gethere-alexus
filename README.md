@@ -10,6 +10,7 @@
 - 💬 Ask me about **potential cooperation.**
 
 - 📫 How to reach me **oleksii.ovchynnikovdev@gmail.com**
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gethere-alexus&theme=highcontrast" alt="gethere-alexus" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,5 +23,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gethere-alexus&show_icons=true&theme=radical&locale=en&layout=compact" alt="gethere-alexus" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gethere-alexus&show_icons=true&theme=radical&locale=en" alt="gethere-alexus" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gethere-alexus&theme=highcontrast" alt="gethere-alexus" /></p>
