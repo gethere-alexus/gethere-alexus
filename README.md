@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oleksii</h1>
-<h3 align="center">A passionate Junior Unity Developer from Ukraine</h3>
+<h3 align="center">A passionate Junior Unity Developer located in Poland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gethere-alexus&label=Profile%20views&color=0e75b6&style=flat" alt="gethere-alexus" /> </p>
 
