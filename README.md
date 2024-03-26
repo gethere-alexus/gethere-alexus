@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gethere-alexus&label=Profile%20views&color=0e75b6&style=flat" alt="gethere-alexus" /> </p>
 
-- 🔭 I’m currently working on [Alien Defenders](https://github.com/gethere-alexus/MobileRunner)
-
-- 🌱 I’m currently learning **Unity Engine and C#**
-
 - 💬 Ask me about **potential cooperation.**
 
 - 📫 How to reach me **oleksii.ovchynnikovdev@gmail.com**
